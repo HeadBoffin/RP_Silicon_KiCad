@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Pico_Test_Pins
+D Rasbperry Pi Pico with rear testpins broken out.
+$ENDCMP
+#
 #End Doc Library
